@@ -24,11 +24,11 @@ The solution uses nested loops:
 
 ## Evaluation Criteria Covered
 
-✔ Nested loops  
-✔ Proper number sequence logic  
-✔ Accurate spacing and formatting  
-✔ Clean and maintainable code  
-✔ Successful execution
+ Nested loops  
+ Proper number sequence logic  
+ Accurate spacing and formatting  
+ Clean and maintainable code  
+ Successful execution
 
 ## How to Run
 
