@@ -1,8 +1,3 @@
-/**
- * Generates a number pattern using nested loops
- * @param {number} totalRows - Number of rows in the pattern
- * @returns {string} - Generated pattern
- */
 function generateNumberPattern(totalRows) {
   let currentNumber = 1;
   let pattern = "";
