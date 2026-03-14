@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pattern Assessment</title>
+</head>
+
+<body>
+
+<h2>Number Pattern</h2>
+
+<pre id="pattern"></pre>
+
+<script src="pattern.js"></script>
+
+<script>
+
+let num = 1;
+let output = "";
+
+for (let i = 1; i <= 5; i++) {
+  for (let j = 1; j <= i; j++) {
+    output += num + " ";
+    num++;
+  }
+  output += "\n";
+}
+
+document.getElementById("pattern").textContent = output;
+
+</script>
+
+</body>
+</html>
